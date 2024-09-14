@@ -2,6 +2,13 @@
 
 # This app is currency converter 
 
+1. Install Node.js if you haven't already: https://nodejs.org/en/download/
+2. Make repository clone https://github.com/ninkov/currency.git
+3. Open terminal and make sure you in the right directory. Then enter 'npm i' to install all package
+4. Finally run in terminal 'npm run dev' and check address: http://localhost:5173/
+5. Мany thanks то Hitesh Choudhary for sharing project's 
+
+# Screenshots
 
 1. base app view
 

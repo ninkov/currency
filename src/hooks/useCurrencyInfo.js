@@ -10,7 +10,6 @@ export default function useCurrencyInfo(currency) {
       .then((response) => setData(response[currency]));
   }, [currency]);
 
-  console.log(data);
   return data;
 }
 
